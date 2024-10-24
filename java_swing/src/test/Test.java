@@ -13,6 +13,6 @@ public class Test {
 		System.out.println(ct.getValue());
 		
 		CounterView cv = new CounterView();
-		 
+		System.out.println("hello world");
 	}
 }
